@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header{
+    background-color: black;
+    justify-content: flex-end;
+    display: flex;
+    padding: 10px;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+    padding-left: 20px;
+    padding-right: 30px;
+    font-size: large;
+}
